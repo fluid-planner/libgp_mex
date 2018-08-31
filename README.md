@@ -1,5 +1,7 @@
 ## libgp_mex: A wrapper for mblum's libgp
 Author: Xuning Yang <xuning.yang@tri.global>
+Released under the MIT License.
+Copyright 2018 Toyota Research Institute.  All rights reserved.
 
 This package contains a mex wrapper for the [libgp](https://github.com/mblum/libgp) package, so that you can use it in MATLAB.
 
