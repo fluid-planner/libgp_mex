@@ -1,0 +1,6 @@
+[submodule "libgp_interface"]
+	path = libgp_interface
+	url = git@<insert new url>/libgp_interface.git
+[submodule "libgp"]
+	path = libgp
+	url = https://github.com/xuningy/libgp
